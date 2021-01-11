@@ -1,0 +1,15 @@
+{
+    "t-header":{
+        "All": "شكرا",
+        "Under Review": "تحت المراجعة",
+        "Inintial Acceptence": "قبول مبدئى",
+        "Conditional Acceptence": "قبول شرطى",
+        "Rejected": "مرفوض",
+        "Medicine": "صيدلة"
+    },
+    "titles":{
+        "Name": "الاسم",
+        "Status": "الحالة",
+        "Major": "التخصص"
+    }
+}

@@ -1,0 +1,32 @@
+#tableTitle  .tableTitle-header {
+    list-style-type: none;
+    display: inline-flex;
+    text-align: center;
+    padding-left: 250px;
+    /* margin: 10px 0; */
+    /* box-sizing: border-box; */
+    /* width: 100%; */
+}
+
+#tableTitle .tableTitle-header button {
+    padding-right: 70px;
+    text-align: center;
+    text-decoration: none;
+    position: inherit;
+    color: #000000;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    font-weight: 20;
+}
+
+#tableTitle .tableTitle-header .text:hover {
+    color: #00f;
+}
+
+#tableTitle .tableTitle-header .active {
+    cursor: pointer;
+    color: #00f;
+    text-decoration: underline;
+}

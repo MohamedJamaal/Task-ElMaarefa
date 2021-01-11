@@ -1,0 +1,14 @@
+{
+    "t-header":{
+        "All": "All",
+        "Under Review": "Under Review",
+        "Inintial Acceptence": "Inintial Acceptence",
+        "Conditional Acceptence": "Conditional Acceptence",
+        "Rejected": "Rejected"
+    },
+    "titles":{
+        "Name": "Name",
+        "Status": "Status",
+        "Major": "Major"
+    }
+}
